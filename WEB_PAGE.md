@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to my projects site
 
-You can use the [editor on GitHub](https://github.com/RishonDev/projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Just a showcase for all my current projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Sunsetted or Temporarily unmaintained projects
+### (Sunsetted)JADT.old (using gradle build system as default build system)
+[Visit Archived repository](https://github.com/JADT.old)
+### (Sunsetted) WaveUSB.old (Using Intellij's Default build system by default)
+[Visit Archived Repository](https://github.com/WaveUSB.old)
+### (Temporarily unmaaintained) WaveUSBX 
+[Vsist Repository ](https://github.com/WaveUSBX)
+## Ongoing projects
 
-### Markdown
+### JADT(Java Application Development Toolkit) -: 
+Description: The easy way to develop apps, based on ```javax.swing```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Depends: ```javax.swing```,```java.awt```, ```jadt.utils.audio``` and ```jadt.utils.video```
 
-```markdown
-Syntax highlighted code block
+[Visit Repository](https://github.com/RishonDev/JADT)
 
-# Header 1
-## Header 2
-### Header 3
+[Visit the website](https://rishdev.github.io/JUIT)
+### Audio plugin for JADT
+Project Details Coming soon...
+### Video plugin for JADT
+Project Details coming soon...
 
-- Bulleted
-- List
+### JADT DESIGNER :
+Description : App to design your apps in jadt
 
-1. Numbered
-2. List
+### WaveUSB
+Description -: The user friendly app to create bootable USBs
+## Projects still maintained , but no feature updates
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RishonDev/projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+No such kind of projects as of now.
